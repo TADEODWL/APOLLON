@@ -12,3 +12,5 @@
 
 #EXTINF:-1 grupo-title="Canales",TNT
 https://hls.mxl-apps.services/iptv_data/app/script/tv/f8b53008d9057ea51983ec7d5e1cda2b3c100304/120a17cc66b5324b407d31326f764780ab48af2d/10074_19.m3u8
+#EXTINF:-1 grupo-title="Canales",TLNOVELAS
+https://hls.mxl-apps.services/iptv_data/app/script/tv/f8b53008d9057ea51983ec7d5e1cda2b3c100304/c398162b843375e46156c45a613fd664561524d8/10073_19.m3u8
