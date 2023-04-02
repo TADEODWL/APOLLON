@@ -8,5 +8,9 @@
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXTINF:10.010000,
 
-#EXTINF:-1 TNT
+#EXTINF:-1 grupo-title="Canales",TNT1
 http://ss8.mxl-iptv.services/cdn/hls_3/10074/mxl_0302333804_168042471301535208_578.ts
+#EXTINF:-1 grupo-title="Canales",TNT2
+http://ss8.mxl-iptv.services/cdn/hls_3/10074/mxl_0302314804_168042531101561152_638.ts
+#EXTINF:-1 grupo-title="Canales",TNT3
+http://ss8.mxl-iptv.services/cdn/hls_3/10074/mxl_0302514804_168042533101548368_640.ts
